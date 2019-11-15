@@ -1,0 +1,7 @@
+---
+- name: Augmented/Virtual/Mixed Reality
+  sub: AR
+- name: Human-Computer Interaction
+  sub: HCI
+- name: Computer Vision
+  sub: CV
